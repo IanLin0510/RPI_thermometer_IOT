@@ -1,3 +1,4 @@
+//let value store in value.json
 //pip3 install jsons
 import json
 //value of temperature is in value.py
