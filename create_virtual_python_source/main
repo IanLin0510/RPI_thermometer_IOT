@@ -1,0 +1,9 @@
+mkdir envs
+cd envs
+pip3 install --upgrade
+pip3 install vertualenv
+virtualenv dsalearning
+chown -R pi:pi dsalearning
+cd dsalearning
+source bin/activate
+//已進入虛擬環境
