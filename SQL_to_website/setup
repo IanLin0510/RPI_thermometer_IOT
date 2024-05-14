@@ -1,0 +1,3 @@
+pip install Flask-SQLAlchemy
+socks = db.session.execute(db.select(Sock).filter_by(style='knee-high')
+   .order_by(Sock.name)).scalars()
