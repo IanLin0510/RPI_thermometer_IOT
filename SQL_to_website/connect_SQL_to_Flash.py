@@ -22,3 +22,4 @@ def testdb():
 
 if __name__ == '__main__':
     app.run(debug=True)
+//Can use pandas to make a list and put into SQL
